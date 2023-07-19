@@ -1,6 +1,6 @@
 # FizzBuzz
 
 - Practice conditionals loop
-- Equality operators
+- Equality operators (&&)
 - Order of operations in loops
 - Practice reminder operation (%)
